@@ -10,6 +10,7 @@ namespace Novo
     {
         static void Main(string[] args)
         {
+            Console.WriteLine();
         }
     }
 }
